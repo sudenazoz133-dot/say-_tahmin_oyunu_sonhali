@@ -1,2 +1,23 @@
-# say-_tahmin_oyunu_sonhali
-Python ve Tkinter ile geliştirilmiş, skor sistemi ve kullanıcı dostu arayüze sahip masaüstü sayı tahmin oyunu.
+# say-_tahmin_oyunu_sonhali.py
+# 🎯 Sayı Tahmin Oyunu
+
+Python ve Tkinter kullanılarak geliştirilmiş masaüstü sayı tahmin oyunu.
+
+## Özellikler
+
+- 🎯 Tkinter grafik arayüz
+- 🏆 Skor sistemi
+- 🥇 En yüksek skor takibi
+- 📋 Tahmin geçmişi
+- ⌨️ Enter tuşu ile tahmin
+- 🔄 Yeni oyun başlatma
+- 🎨 Kullanıcı dostu arayüz
+
+## Kullanılan Teknolojiler
+
+- Python
+- Tkinter
+
+## Geliştirici
+
+Sudenaz Öz
